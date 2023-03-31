@@ -1,3 +1,8 @@
+hgroup{
+    text-align: justify;
+    text-indent: 50px;
+}
+
 ol{
     text-decoration-line: underline;
 }
@@ -24,7 +29,7 @@ nav#Menu ul{
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-    left: 320px;
+    left: 400px;
 }
 
 nav#Menu li{
@@ -54,3 +59,47 @@ figure{
     text-align: center;
 }
 
+figure img#icone{
+    width: 25%;
+    height: 25%;
+}
+
+div#interface{
+    width: 900px;
+    margin: -20px;
+    padding: 10px 10px 10px 10px;
+}
+
+header#cabecalho img#icone{
+    position: absolute;
+    left: 910px;
+    top: 50px;
+}
+
+header#cabecalho{
+    border-bottom: 1px #606060 solid;
+    height: 160px;
+}
+
+header#cabecalho h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+header#cabecalho h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    padding: 0px;
+    margin-top: 0px;
+}
+
+header#cabecalho h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    padding: 0px;
+    margin-top: 0px;
+}
