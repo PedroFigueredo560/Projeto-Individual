@@ -103,3 +103,17 @@ header#cabecalho h3{
     padding: 0px;
     margin-top: 0px;
 }
+
+section#corpo{
+    display: block;
+    width: 800px;
+    float: left;
+}
+
+footer#rodape{
+    clear: both;
+}
+
+footer#rodape p{
+    text-align: center;
+}
