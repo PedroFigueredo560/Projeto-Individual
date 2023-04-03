@@ -115,5 +115,61 @@ footer#rodape{
 }
 
 footer#rodape p{
-    text-align: center;
+    text-align: end;
+}
+
+.tg  {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+.tg td{
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+
+.tg th{
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+
+.tg .tg-kusv{
+    background-color:#fffe65;
+    border-color:inherit;
+    text-align:left;
+    vertical-align:top
+}
+
+.tg .tg-zlqz{
+    background-color:#c0c0c0;
+    border-color:inherit;
+    font-weight:bold;
+    text-align:center;
+    vertical-align:top
+}
+
+.tg .tg-smvl{
+    background-color:#fd6864;
+    border-color:inherit;
+    text-align:left;
+    vertical-align:top
+}
+
+table#tg{
+    border: 1px solid white;
+    border-spacing: 0px;
+    margin: auto;
 }
